@@ -1,0 +1,6 @@
+.product-image:hover .cart-btn{
+    bottom: 16px;
+}
+.product-image:hover .top-btn{
+    top: 16px;
+}

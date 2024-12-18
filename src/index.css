@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#admin .active{
+    background: #fff;
+    color: #000;
+}
+
+@media (min-width: 1100px){
+    #brands::-webkit-scrollbar,
+    #products::-webkit-scrollbar{
+        height: 0;
+    }
+}
